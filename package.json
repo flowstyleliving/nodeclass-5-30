@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/flowstyleliving/nodeclass-5-30/issues"
   },
-  "homepage": "https://github.com/flowstyleliving/nodeclass-5-30#readme"
+  "homepage": "https://github.com/flowstyleliving/nodeclass-5-30#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }

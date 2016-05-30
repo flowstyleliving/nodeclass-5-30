@@ -8,10 +8,10 @@ setTimeout(()=> {
 console.log('hi now');
 
 
-//
-// setTimeout(()=> {
-//   console.log('hello')
-// }, 5000);
-// setInterval(()=> {
-// console.log('world')
-// }, 1000)
+
+ setTimeout(()=> {
+   console.log('hello')
+ }, 5000);
+ setInterval(()=> {
+ console.log('world')
+}, 1000)
